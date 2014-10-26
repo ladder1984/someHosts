@@ -19,5 +19,6 @@ someHosts
     - 文件地址：https://simpleu.googlecode.com/svn/trunk/hosts
 - **huhamhire-hosts**
     - 项目地址：<https://hosts.huhamhire.com/>
-- **google hosts from 360kb** <http://www.360kb.com/kb/2_122.html>
+- **google hosts from 360kb**
+    - 项目地址：<http://www.360kb.com/kb/2_122.html>
 - 待续...

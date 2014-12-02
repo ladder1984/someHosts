@@ -15,10 +15,11 @@ someHosts
     - 项目地址： <https://github.com/txthinking/google-hosts>
     - 文件地址：https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 - **simpleu-hosts**
-    - 项目地址：https://code.google.com/p/simpleu/
-    - 文件地址：https://simpleu.googlecode.com/svn/trunk/hosts
+    - 项目地址：https://github.com/vokins/simpleu
+    - 文件地址：https://github.com/vokins/simpleu/blob/master/hosts
+
+--------------------------------
 - **huhamhire-hosts**
     - 项目地址：<https://hosts.huhamhire.com/>
-- **google hosts from 360kb**
-    - 项目地址：<http://www.360kb.com/kb/2_122.html>
+
 - 待续...

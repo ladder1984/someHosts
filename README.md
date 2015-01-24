@@ -8,7 +8,7 @@ someHosts
 - **smarthosts（停止更新）**
     - 项目地址：<https://code.google.com/p/smarthosts/>
     - 文件地址：https://smarthosts.googlecode.com/svn/trunk/hosts
-- **imouto.host**
+- **imouto.host（停止更新）**
     - 项目地址： <https://github.com/zxdrive/imouto.host>
     - 文件地址：https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
 - **google-hosts**
@@ -27,6 +27,6 @@ someHosts
 - **Netsh**
     - 项目地址：<http://serve.netsh.org/pub/gethosts.php>
 - **projecth.us**
-    -项目地址：<https://www.projecth.us/sources>
+    - 项目地址：<https://www.projecth.us/sources>
 
 - 待续...

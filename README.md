@@ -18,7 +18,7 @@ someHosts
     - 项目地址：https://github.com/vokins/simpleu
     - 文件地址：https://github.com/vokins/simpleu/blob/master/hosts
 - **General Hosts (ghosts)**
-    文件地址：<http://h.heartnn.eu.org/hosts>
+    - 文件地址：<http://h.heartnn.eu.org/hosts>
 - **GavinHosts**
     - 文件地址：<http://blog.crpuer.com/GavinHosts.txt>
 

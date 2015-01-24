@@ -17,13 +17,16 @@ someHosts
 - **simpleu-hosts**
     - 项目地址：https://github.com/vokins/simpleu
     - 文件地址：https://github.com/vokins/simpleu/blob/master/hosts
+- **General Hosts (ghosts)**
+    文件地址：<http://h.heartnn.eu.org/hosts>
+- **GavinHosts**
+    - 文件地址：<http://blog.crpuer.com/GavinHosts.txt>
+
 
 --------------------------------
 - **huhamhire-hosts**
     - 项目地址：<https://hosts.huhamhire.com/>
 - <http://www.360kb.com/kb/2_122.html>
-- **GavinHosts**
-    - 文件地址：<http://blog.crpuer.com/GavinHosts.txt>
 - **Netsh**
     - 项目地址：<http://serve.netsh.org/pub/gethosts.php>
 - **projecth.us**
